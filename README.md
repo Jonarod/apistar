@@ -80,7 +80,7 @@ We're now ready to start using the `apistar` command line tool.
 We can validate our OpenAPI schema:
 
 ```
-$ apistar validate
+$ apistar validate --path schema.yaml
 ✓ Valid OpenAPI schema.
 ```
 
